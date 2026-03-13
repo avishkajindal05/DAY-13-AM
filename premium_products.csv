@@ -1,0 +1,7 @@
+name,category,price,stock,rating,num_reviews
+Laptop,Electronics,65000,20,4.6,320
+Smartphone,Electronics,30000,25,4.4,500
+Tablet,Electronics,20000,12,4.3,180
+Vacuum Cleaner,Home,12000,15,4.5,130
+Gaming Console,Electronics,45000,8,4.7,420
+Monitor,Electronics,15000,14,4.4,210

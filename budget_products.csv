@@ -1,0 +1,10 @@
+name,category,price,stock,rating,num_reviews
+T-shirt,Clothing,500,100,4.0,95
+Cap,Clothing,300,80,3.9,50
+Novel,Books,400,120,4.5,140
+Cookbook,Books,700,50,4.3,120
+Notebook,Books,120,200,4.0,30
+Dictionary,Books,900,70,4.2,65
+Comics,Books,250,90,4.4,85
+Lamp,Home,900,60,4.2,40
+Mouse,Electronics,800,75,4.0,180

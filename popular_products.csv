@@ -1,0 +1,13 @@
+name,category,price,stock,rating,num_reviews
+Laptop,Electronics,65000,20,4.6,320
+Smartphone,Electronics,30000,25,4.4,500
+Headphones,Electronics,2500,40,4.2,150
+Smartwatch,Electronics,8000,15,4.1,210
+Tablet,Electronics,20000,12,4.3,180
+Sneakers,Clothing,4000,45,4.1,110
+Novel,Books,400,120,4.5,140
+Cookbook,Books,700,50,4.3,120
+Vacuum Cleaner,Home,12000,15,4.5,130
+Gaming Console,Electronics,45000,8,4.7,420
+Monitor,Electronics,15000,14,4.4,210
+Keyboard,Electronics,1200,55,4.1,160
