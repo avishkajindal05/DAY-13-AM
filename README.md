@@ -87,7 +87,7 @@ DAY-13-AM/
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/avishkajindal05/DAY-13-AM.git
 cd DAY-13-AM
 ```
 
